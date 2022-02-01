@@ -3,32 +3,31 @@
 
 # HOT 16
 
-# 1. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 1. ls
+# Pokazuje wszystkie pliki w folderze, w którym aktualnie jesteśmy
 
-# 2. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 2. cd
+# Pozwala nam przenosić się między różnymi katalogami
 
-# 3. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 3. mkdir
+# Tworzy katalog o określonej nazwie
 
-# 4. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 4. pwd
+# Pokazuje w jakim katalogu aktualnie jesteśmy
 
-# 5. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 5. nano
+# Pozwala nam edytować jakiś plik tekstowy w terminalu
 
-# 6. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 6. su
+# Pozwala nam używać terimnala jako root
 
-# 7. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 7. cp
+# Kopiujemy wybrany plik
 
-# 8. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 8. clear
+# Czyści nam terminal
 
-# 9. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 9. 
 
 # 10. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
@@ -55,8 +54,8 @@
 
 # HOT 32
 
-# 17. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 17. chmod +x
+# Sprawia, że napisany przez nas skrypt można uruchomić
 
 # 18. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
