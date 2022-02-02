@@ -27,10 +27,11 @@
 # 8. clear
 # Czyści nam terminal
 
-# 9. 
+# 9. ./
+# Pozwala uruchomić napisany przez nas skrypt
 
-# 10. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 10. rm
+# Usuwa wybrany plik
 
 # 11. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
@@ -41,14 +42,14 @@
 # 13. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
 
-# 14. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 14. sudo apt-get update
+# 3 komendy służące do aktualizowania różnych elementów systemu
 
-# 15. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 15. sudo apt-get upgrade
+# 3 komendy służące do aktualizowania różnych elementów systemu
 
-# 16. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 16. sudo apt-get dist-upgrade
+# 3 komendy służące do aktualizowania różnych elementów systemu
 
 
 
