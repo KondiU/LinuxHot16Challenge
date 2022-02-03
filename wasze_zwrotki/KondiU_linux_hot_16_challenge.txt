@@ -33,8 +33,8 @@
 # 10. rm
 # Usuwa wybrany plik
 
-# 11. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 11. exit
+# Opuszczamy sesję
 
 # 12. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
